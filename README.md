@@ -5,5 +5,5 @@
 
 
 ## Mobile view
-<img src="https://user-images.githubusercontent.com/52010727/221892603-85d40225-ecca-4cba-bf4c-ae54a0881aa3.png" width="420"/>
+<img src="https://user-images.githubusercontent.com/52010727/221892603-85d40225-ecca-4cba-bf4c-ae54a0881aa3.png" width="340"/>
 
