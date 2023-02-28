@@ -5,6 +5,5 @@
 
 
 ## Mobile view
-![_C__Users_Artur_Desktop_Layout_index html(iPhone 12 Pro)](https://user-images.githubusercontent.com/52010727/221892603-85d40225-ecca-4cba-bf4c-ae54a0881aa3.png)
-
+<img src="![_C__Users_Artur_Desktop_Layout_index html(iPhone 12 Pro)](https://user-images.githubusercontent.com/52010727/221892603-85d40225-ecca-4cba-bf4c-ae54a0881aa3.png)" width="420"/>
 
