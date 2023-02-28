@@ -1,8 +1,10 @@
 <h1 align='center'>My first website layout with RWD.</h1>
 
 ## Desktop view
-![image](https://user-images.githubusercontent.com/52010727/221890101-d19ad006-3c7d-4262-a4ad-771d5e5dd47f.png)
+![_C__Users_Artur_Desktop_Layout_index html](https://user-images.githubusercontent.com/52010727/221892580-c8f6d670-d581-43e2-8ed5-2ca920f68f83.png)
+
 
 ## Mobile view
-![m1z4n github io_my-rwd-website_(iPhone 12 Pro) (1)](https://user-images.githubusercontent.com/52010727/221891389-d717151c-aedd-421f-9103-e719908465a8.png)
+![_C__Users_Artur_Desktop_Layout_index html(iPhone 12 Pro)](https://user-images.githubusercontent.com/52010727/221892603-85d40225-ecca-4cba-bf4c-ae54a0881aa3.png)
+
 
